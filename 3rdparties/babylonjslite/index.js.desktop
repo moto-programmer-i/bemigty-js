@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Link
+Name=index.js
+Icon=application-javascript
+URL=https://cdn.jsdelivr.net/npm/@babylonjs/lite@1.28.0/dist/index.js
